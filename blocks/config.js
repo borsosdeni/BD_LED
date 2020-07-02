@@ -1,6 +1,6 @@
 module.exports = [
     {
-        name: "BD_LED",
+        name: "BD_LED v1.0.1",
         blocks: [
                 
            'BD_LED_init',
