@@ -33,16 +33,3 @@ Blockly.JavaScript['BD_LED_out'] = function (block) {
  
   return code;
 };
-
-/*
-pinMode(12, OUTPUT);
-  pinMode(14, OUTPUT);
-  pinMode(27, OUTPUT);
-  pinMode(26, OUTPUT);
-  pinMode(25, OUTPUT);
-  digitalWrite(12, 1);
-  digitalWrite(14, 1);
-  digitalWrite(27, 1);
-  digitalWrite(26, 1);
-  digitalWrite(25, 1);
-  */

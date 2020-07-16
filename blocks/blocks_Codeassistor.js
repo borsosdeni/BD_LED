@@ -17,7 +17,6 @@ Blockly.Blocks['BD_LED_out'] = {
   init: function () {
     this.appendDummyInput()
       .appendField("LED - LED out")
-    //.appendField("At")
     this.appendValueInput("index")
       .setCheck("Number")
       .appendField("Number: ");
