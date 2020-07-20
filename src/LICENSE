@@ -1,24 +1,3 @@
-http://www.esp32learning.com/code/esp32-and-max7219-8x8-led-matrix-example.php
-Demo
-
-
-
-MAX7219LedMatrix
-Library for the ESP8266 on Arduino IDE displaying text on one or multiple MAX7219 8x8 led matrices.
-
-This library displays text and sets specific pixels on one or multiple 8x8 led matrices with a MAX7219 driver chip controlled through the SPI interface. These modules are relatively cheep and can be daisy chained which makes it easy to get a led text bar up and running You can find modules e.g. with Banggood (<-affiliate link).
-
-For details about the MAX7219 theory, wiring, schematic, etc. there's a great post by Nick Gammon: http://www.gammon.com.au/forum/?id=11516
-
-Currently this library supports the following operations:
-
-set pixels
-write text with a simple font
-scroll text left or right
-oscillate text between the two ends
-You're welcome to read in my blog how this library came about.
-
-
 The MIT License (MIT)
 
 Copyright (c) 2015 
